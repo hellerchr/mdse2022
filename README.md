@@ -7,7 +7,7 @@ Folien & Übungen
 * Mo, 10.10., 15:30-18:45 - Thema: Docker
 * Fr, 21.10., 15:30-18:45 - Thema: Git
 * Fr, 28.10., 15:30-18:45 - Thema: Maven
-* Fr, 11.11., 15:30-18:45 - Thema: CI & Datenformate
+* Fr, 11.11., 16:00-19:15 - Thema: CI & Datenformate
 * Fr, 25.11., 15:30-18:45 - Thema: Prüfung
 * Fr, 09.12., 15:30-18:45 - Thema: Prüfung & QA
 
