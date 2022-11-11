@@ -12,6 +12,7 @@ Folien & Übungen
 * Fr, 09.12., 15:30-18:45 - Thema: Prüfung & QA
 
 ## Prüfungstermine
+Finden in Vorlesungsraum 2 statt (remote)
 
 ### Fr, 25.11., 15:30-18:45
 ## Gruppen:
